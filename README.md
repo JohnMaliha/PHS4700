@@ -1,1 +1,1 @@
-phs4700
+PHS4700 : Physique pour les applications multimédia
